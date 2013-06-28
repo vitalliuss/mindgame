@@ -1,0 +1,7 @@
+# Node.js files
+node_modules/
+express*
+cake*
+coffee*
+npm*
+node.exe
